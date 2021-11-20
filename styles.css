@@ -18,9 +18,9 @@ p {
     background: url('assets/name-of-image.jpg') no-repeat;
     background-attachment: fixed;
     background-position: center;
-    filter: grayscale(60%);
-    font-size: 16px;
-    line-height: 13px;
+    filter: grayscale(60%); /* you can set grayscale to 100% to make it more visually obvious */
+    font-size: 1.6rem;
+    line-height: 1.3rem;
     text-align: justify;
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
